@@ -130,4 +130,5 @@ namespace Leonte_Eleonora_Lab2
             mFlavour = aFlavor;
         }
     }
+    
 }
